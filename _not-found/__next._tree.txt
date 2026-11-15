@@ -1,4 +1,4 @@
-:HL["/dokuz-sogut-demo/_next/static/chunks/2-wpnfz2p5bwb.css","style"]
+:HL["/dokuz-sogut-demo/_next/static/chunks/3r9uo4u2h7mvl.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"sf_be_V51lDjqpddKckPO","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"oddd0fhzXHrEO1pnqQMWu","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
